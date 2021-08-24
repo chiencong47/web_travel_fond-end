@@ -183,6 +183,10 @@
      .container5_info_cover {
         width: 84% !important;
     }
+    .container5_info {
+     display: flex;
+     width: 98% !important;
+}
     
 
         
