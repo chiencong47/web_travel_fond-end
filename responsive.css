@@ -92,7 +92,7 @@
         width: 20px;
         height: 20px;
         font-size: 30px;
-        margin-left: 39px;
+        margin-left: 15px;
     }
     .header_right_menu_mobile
     {
@@ -119,7 +119,7 @@
         position: relative;
         float: revert;
         width: 99%;
-        padding: 26px 2px;
+        padding: 12px 2px;
 }
         .header1 .header_center ul li a {
         color: #f7f8f5;
@@ -139,10 +139,11 @@
         .menu_close1
         {
         position: relative;
-        right: -203px;
-        top: -4px;
+        right: -279px;
+        top: -26px;
         font-size: 25px !important;
-}
+        display: block;
+        }      
         .menu_close1:hover
         {
             cursor: pointer;
