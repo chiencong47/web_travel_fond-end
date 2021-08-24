@@ -15,6 +15,9 @@
         flex-wrap: wrap;
         justify-content: center;
     }
+    .container5_info_item {
+    padding: 15px 0px !important;
+    }
  
     .footer_header {
         
