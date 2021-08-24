@@ -15,6 +15,10 @@
         flex-wrap: wrap;
         justify-content: center;
     }
+    .container5_info_item
+    {
+        padding: 15px 41px;
+    }
     .footer_header {
         
         flex-wrap: wrap;
